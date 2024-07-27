@@ -17,7 +17,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/TusharSharma131",
   resume:
-    "https://drive.google.com/file/d/1stpZLM8dcaPdAAI_9W0pX-7HyCHHcCrs/view?usp=sharing",
+    "https://drive.google.com/file/d/1pBi2mOaj1yaEnqwEAaMUDBHKezHEqTjL/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/tushar-sharma-53425521b",
   twitter: "https://twitter.com/ImTusharrSharma",
   instagram: "https://www.instagram.com/_tusharr_31/",
@@ -126,8 +126,8 @@ export const education = [
     img: College,
     school: "Chandigarh Group of Colleges, Mohali, Punjab",
     date: "Aug 2020 - June 2024",
-    grade: "8.08 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Chandigarh Group of Colleges, Mohali, Punjab. I have completed seven semesters and maintained a CGPA of 8.08. My areas of expertise and interest include Data Structures & Algorithms, Frontend Development, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. Additionally, I possess strong research skills, demonstrated by my involvement in a patent and research paper during my college tenure. I enjoy collaborating with talented team members to explore and innovate in various domains.",
+    grade: "8.27 CGPA",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Chandigarh Group of Colleges, Mohali, Punjab. I have completed eight semesters and maintained a CGPA of 8.27. My areas of expertise and interest include Data Structures & Algorithms, Frontend Development, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. Additionally, I possess strong research skills, demonstrated by my involvement in a patent and research paper during my college tenure. I enjoy collaborating with talented team members to explore and innovate in various domains.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
@@ -155,12 +155,12 @@ export const projects = [
     id: 0,
     title: "News App",
     date: "Feb 2024 - March 2024",
-    description: "Descrpition provided soon..",
+    description: "NewsNexus is your go-to hub for all the latest news and updates. It brings together diverse stories from around the world, providing a central place for you to stay informed. Whether it's breaking news, in-depth analysis, or trending topics, NewsNexus connects you with the information you need, all in one convenient platform.",
     image: newsApp,
-    tags: ["HTML", "CSS", "TailwindCSS", "JavaScript", "React.js", "Node.js", "Express.js", "Mongoose","MongoDb"],
+    tags: ["HTML", "CSS", "TailwindCSS", "JavaScript", "React.js", "Alan AI"],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/TusharSharma131/NewsNexus",
+    webapp: "https://news-nexus-news-app.netlify.app/",
     member: [
       {
         name: "Tushar Sharma",
