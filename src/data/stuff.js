@@ -1,5 +1,6 @@
 import newsApp from "../assets/Images/newsApp.png";
 import SkyGlimpse from "../assets/Images/SkyGlimpse.png";
+import Coinverter from "../assets/Images/Coinverter.png"
 import TriviaApp from "../assets/Images/triviaApp.png";
 import College from "../assets/Images/cgc_logo.png";
 import stCarmel from "../assets/Images/stCarmel.png";
@@ -153,14 +154,14 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "News App",
+    title: "NewsNexus App",
     date: "Feb 2024 - March 2024",
     description: "NewsNexus is your go-to hub for all the latest news and updates. It brings together diverse stories from around the world, providing a central place for you to stay informed. Whether it's breaking news, in-depth analysis, or trending topics, NewsNexus connects you with the information you need, all in one convenient platform.",
     image: newsApp,
-    tags: ["HTML", "CSS", "TailwindCSS", "JavaScript", "React.js", "Alan AI"],
+    tags: ["HTML", "CSS", "TailwindCSS", "JavaScript", "React.js", "Node.js", "Express.js", "MongoDB", "Bcrypt", "JWT"],
     category: "web app",
     github: "https://github.com/TusharSharma131/NewsNexus",
-    webapp: "https://news-nexus-news-app.netlify.app/",
+    webapp: "https://news-nexus-application.netlify.app/",
     member: [
       {
         name: "Tushar Sharma",
@@ -196,15 +197,15 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Sky Glimpse",
-    date: "Apr 2023 - May 2023",
+    title: "Coinverter-npm package",
+    date: "Apr 2024 - May 2024",
     description:
-      "My weather application is a modern web platform that provides users with real-time weather information and a 6-day forecast. It allows users to enter a location and instantly receive accurate weather details, ensuring they stay well-prepared for any upcoming changes in weather conditions.",
-    image: SkyGlimpse,
-    tags: ["HTML", "CSS", "JavaScript", "React.js", "Material UI"],
+      "Introducing Coinverter, the leading npm package for seamless currency conversion, real-time exchange rates, and effortless historical data retrieval. With our innovative caching feature, enjoy uninterrupted access to historical exchange rate data, even when offline, ensuring a smooth user experience every time.",
+    image: Coinverter,
+    tags: ["Node.js", "npm", "JavaScript", "Axios", "FreeCurrency API"],
     category: "web app",
-    github: "https://github.com/TusharSharma131/weather-app-project",
-    webapp: "https://sky-glimpse-weather-app.netlify.app/",
+    github: "https://github.com/TusharSharma131/Coinverter",
+    webapp: "https://www.npmjs.com/package/coinverter",
     member: [
       {
         name: "Tushar Sharma",
